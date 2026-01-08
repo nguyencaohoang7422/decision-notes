@@ -51,3 +51,19 @@ Controlled vs Uncontrolled
 Khi nào không dùng useEffect
 
 Memoization có thực sự cần không?
+
+❌ Cách học sai (rất phổ biến)
+
+“React render khi state change”
+
+“useEffect chạy sau render”
+
+“memo giúp tối ưu”
+
+👉 Đây là triệu chứng, không phải bản chất.
+
+#Render là gì trong hệ thống?
+
+
+
+
